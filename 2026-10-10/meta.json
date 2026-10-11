@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-10",
+  "winner": "Adi",
+  "winner_faction": "Saar",
+  "players": [
+    "Nick",
+    "Silvan",
+    "Matze",
+    "Adi"
+  ],
+  "rounds": 5,
+  "wall": 25382,
+  "fights": 11,
+  "log": "game_20260308_063232_turn_timer.jsonl"
+}
